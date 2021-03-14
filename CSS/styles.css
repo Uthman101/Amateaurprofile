@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Yusei Magic', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.375rem;
+  color: #66BFBF;
+  line-height: 0;
+}
+
+h2 {
+  font-family: 'Parisienne', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: 'Parisienne', cursive;
+  color: #11999E;
+}
+
+h4 {
+  font-family: 'Parisienne', cursive;
+  font-size: 30px;
+  color: #11999E;
+}
+
+.first-container {
+  background-color: #AFEEEE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.second-container {
+    margin: 5% auto 5% auto;
+}
+
+
+.contact-message{
+width:50%;
+margin: 40px auto 60px;
+}
+
+.third-container {
+  background-color: #66BFBF;
+  line-height: 30px;
+  padding: 50px 50px 50px 50px;
+}
+
+hr {
+  width: 10%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  color: #EAF6F6;
+  margin: 50px auto 50px auto;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+font-family: 'Yusei Magic', sans-serif;
+  margin: 10px 30px;
+
+}
+
+.footer-link:hover{
+  color:#EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 1;
+}
+
+.Desndev {
+  width:auto;
+  float: left;
+padding-right: 50px;
+}
+
+.Manager {
+  width: auto;
+  float: right;
+  padding-left: 50px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.Uthman {
+  width: 20%;
+}
+
+.btn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #66BFBF);
+  background-image: -moz-linear-gradient(top, #11999E, #66BFBF);
+  background-image: -ms-linear-gradient(top, #11999E, #66BFBF);
+  background-image: -o-linear-gradient(top, #11999E, #66BFBF);
+  background-image: linear-gradient(to bottom, #11999E, #66BFBF);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+font-family: 'Yusei Magic', sans-serif;
+  color: WHITE;
+  font-size: 35px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #AFEEEE;
+  background-image: -webkit-linear-gradient(top, #AFEEEE, #66BFBF;);
+  background-image: -moz-linear-gradient(top, #AFEEEE, #66BFBF;);
+  background-image: -ms-linear-gradient(top, #AFEEEE, #66BFBF;);
+  background-image: -o-linear-gradient(top, #AFEEEE, #66BFBF;);
+  background-image: linear-gradient(to bottom, #AFEEEE, #66BFBF;);
+  text-decoration: none;
+}
